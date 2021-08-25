@@ -47,7 +47,7 @@
   </a>
 </div>
 
-# Svelte Media observer
+# Svelte Media Observer
 
 Svelte Media observer is small utility media queries observer built for [Svelte](https://svelte.dev/) framework.
 
