@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/EricRovell/radix/actions">
+  <a href="https://github.com/EricRovell/svelte-media-observable/actions">
     <img alt="build action status" src="https://github.com/EricRovell/svelte-media-observable/workflows/build/badge.svg" />
   </a>
 </div>
