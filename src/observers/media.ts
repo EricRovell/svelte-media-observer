@@ -18,7 +18,7 @@ function matchMedia<T extends string>(mqls: MediaQueryMap<T>): Media<T> {
 /**
  * Initializes a media queries observable.
  */
-export function mediaObservable<T extends string>(mediaQueries: MediaQueries<T>): Writable<Media<T>> {
+export function mediaObserver<T extends string>(mediaQueries: MediaQueries<T>): Writable<Media<T>> {
 	return writable({} as Media<T>, set => {
 		if (!globalThis.window) {
 			return;
