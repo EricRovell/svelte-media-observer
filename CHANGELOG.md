@@ -1,5 +1,5 @@
-# Svelte Media Observable
+# Svelte Media Observer
 
-## 0.1.0 (2021-08-25)
+## 1.0.0 (2021-08-26)
 
 - First release;

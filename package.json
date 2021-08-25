@@ -1,7 +1,7 @@
 {
-  "name": "svelte-media-observable",
-  "version": "0.1.0",
-  "description": "SvelteJS media queries observable.",
+  "name": "svelte-media-observer",
+  "version": "1.0.0",
+  "description": "SvelteJS media queries observer.",
   "main": "index.js",
   "module": "index.mjs",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericrovell/svelte-media-observable.git"
+    "url": "git+https://github.com/ericrovell/svelte-media-observer.git"
   },
   "keywords": [
     "svelte",
@@ -48,7 +48,7 @@
       "default": "./index.mjs"
     }
   },
-  "homepage": "https://github.com/ericrovell/svelte-media-observable#readme",
+  "homepage": "https://github.com/ericrovell/svelte-media-observer#readme",
   "directories": {
     "test": "tests"
   },
