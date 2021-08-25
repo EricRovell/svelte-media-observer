@@ -94,7 +94,7 @@ It is a nice idea to create several stores, as some media queries will update ra
 
 ## Issues
 
-While using Typescript and ESLint for Svelte, you might meet some [limitations](incorrect no-unsafe-member-access error) to type-aware rules. [Link](https://github.com/sveltejs/eslint-plugin-svelte3/issues/89) to the issue.
+While using Typescript and ESLint for Svelte, you might meet some [limitations](https://github.com/sveltejs/eslint-plugin-svelte3#installation-with-typescript) to type-aware rules. [Link](https://github.com/sveltejs/eslint-plugin-svelte3/issues/89) to the issue.
 
 ```html
 <script>
