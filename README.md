@@ -83,7 +83,7 @@ observer contains all named media queries as `Record<breakpointName: string, que
 
 {#if $media.small}
   <NavMobile />
-{#else}
+{:else}
   <NavDesktop />
 {/if}
 ```
@@ -104,7 +104,7 @@ While using Typescript and ESLint for Svelte, you might meet some [limitations](
 // incorrect no-unsafe-member-access error
 {#if $media.small}
   <NavMobile />
-{#else}
+{:else}
   <NavDesktop />
 {/if}
 ```
