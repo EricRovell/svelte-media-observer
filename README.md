@@ -51,6 +51,8 @@
 
 Svelte Media observer is small utility media queries observer built for [Svelte](https://svelte.dev/) framework.
 
+Try it in the [Svelte REPL](https://svelte.dev/repl/e9f6a16dfd9a4013b1a0a76347b206eb?version=3).
+
 ## Getting started
 
 The package is available via [npm](https://www.npmjs.com/package/svelte-media-observer):
