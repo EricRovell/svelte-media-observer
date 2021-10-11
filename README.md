@@ -1,9 +1,9 @@
 <div align="center">
   <img
-    alt="Telescope as package logo"
-    src="assets/logo.svg"
-    width="125px"
-    height="125px"
+    alt="Alien with one eye depicting observer"
+    src="assets/mascot.svg"
+    width="175px"
+    height="175px"
     padding="25px"
   />
 </div>
@@ -110,3 +110,7 @@ While using Typescript and ESLint for Svelte, you might meet some [limitations](
   <NavDesktop />
 {/if}
 ```
+
+## Attribution
+
+Observer alien was created by [FreakAddL](https://t.me/portfolio_e_g).
