@@ -19,8 +19,8 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
-      - run: npm install
-      - run: npm run check-types
+      - run: npm install -g pnpm && pnpm install
+      - run: npm run typecheck
       - run: npm run lint
       - run: npm run test
       - name: Code Coverage Report
